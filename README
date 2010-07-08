@@ -26,4 +26,12 @@ Swirl currently has a few dependencies outside of the repo:
 	5) FUTURE: a) standalone version capable of running as an app in the
 	   	      idl virtual machine.
 
+Thanks especially to:
+       Tony DelGenio without whose support and friendly guidance this project
+       	    could not have happened,
+       John Barbara whose data and smarts made everything work better.
+
+       Peter Gierasch with whom this entire project was begin in the first
+       	    and who believed that it could work.
+
 Expect a working version before 7/15/10.
