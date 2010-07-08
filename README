@@ -1,0 +1,29 @@
+README for Swirl v.1
+
+A scattered collection of IDL scripts for processing images of 
+gas giants, finding cloud features, and determining curl and 
+divergence.
+
+In its rudimentary current form, Swirl lacks documentation and
+will not work independently of a few still unpackaged programs.
+These are coming!
+
+Swirl currently has a few dependencies outside of the repo:
+      --Fanning libraries available at 
+      		http://www.dfanning.com/documents/programs.html
+
+      --Misc utilities yet unpublished that will be included in this repo.
+
+
+--TODO--
+	1) Include supplementary utilities necessary for basic function.
+	2) Documentation and usage examples.
+	3) Improved organization and deletion - separation of the wheat from
+	   the chaff.
+	4) Algorithm improvement: a) addition of new correlation techniques 
+	   	     		  b) streamlining and packaging of current ones
+				
+	5) FUTURE: a) standalone version capable of running as an app in the
+	   	      idl virtual machine.
+
+Expect a working version before 7/15/10.
